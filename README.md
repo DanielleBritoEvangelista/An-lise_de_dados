@@ -10,4 +10,6 @@ Motivação :
 
 Alunas: Nayara Lopes [@GitHub](https://github.com/NayDev/Projeto-Python)  e 
 Danielle Brito [@GitHub](https://github.com/DanielleBritoEvangelista/An-lise_de_dados) 
+
+
 Dados: Disponível em https://www.tse.jus.br/hotsites/pesquisas-eleitorais/candidatos.html
